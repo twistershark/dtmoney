@@ -1,46 +1,96 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Welcome to dtmoney 💸
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="Cover" src="https://github.com/twistershark/dtmoney/blob/main/docs/assets/cover.png" />
+</p>
 
-## Available Scripts
+<h1 align="center">
+  <img alt="dtmoney" src="https://github.com/twistershark/dtmoney/blob/main/docs/assets/main.png" />
+</h1>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Modal" src="https://github.com/twistershark/dtmoney/blob/main/docs/assets/modal.png" />
+</p>
 
-### `yarn start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# 📑 Index
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [About](#-about)
+- [Technologies](#-technologies)
+- [Prerequisites](#-prerequisites)
+- [How to use this project](#-how-to-use-this-project)
+- [Author](#-author)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📋 About
 
-### `yarn build`
+dtmoney is a **finance application** to help control all your incomes and withdraws. The entire project was build respecting all **acessibility** rules and **responsiveness**. I also used **MirageJS** to simulate a real API.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [MirageJS](https://miragejs.com/)
+- [Styled Components](https://styled-components.com/)
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔧 Prerequisites
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- NodeJS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🌟 How to use this project
 
-## Learn More
+```sh
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  # Clone the repository
+  $ git clone https://github.com/twistershark/dtmoney.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  # Enter the repository
+  $ cd dtmoney
+
+  # Install all dependencies
+  $ npm install
+
+  # Launch the application
+  $ npm start
+
+```
+
+---
+
+## 🤓 Author
+
+👤 **Paulo Victor da Silva**
+
+- Github: [@twistershark](https://github.com/twistershark)
+- LinkedIn: [@paulovictorsilva](https://linkedin.com/in/paulovictorsilva)
+
+---
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+## 🤝 Contributing
+
+Feel free to contribute to this project. Every help is welcome!
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
